@@ -6,6 +6,7 @@ stars with the smart git
 
 stars with the smart git
 
+<<<<<<< HEAD
 day after tomorrow my quiz of git=-=-=-=-=-=-=-=-=-=
 
 Baba black sheep have you many whool yes sir yes sir 3 bags full
@@ -14,3 +15,6 @@ I am  Smart  Since Day One .........................
 beleive That!!!!!!!!!!!
 
 type here to search this 
+=======
+day after tomorrow my quiz of git=-=-=-=-=-=-=-=-=-=
+>>>>>>> parent of 5aaf3c2... updated New.txt
